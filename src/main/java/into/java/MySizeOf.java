@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package intojava;
+package into.java;
 
 import java.lang.instrument.Instrumentation;  
 import java.lang.reflect.Array;  
